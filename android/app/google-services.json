@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296344582618",
+    "project_id": "kontrakanku-5a8d3",
+    "storage_bucket": "kontrakanku-5a8d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296344582618:android:20ae06a389173188d668e3",
+        "android_client_info": {
+          "package_name": "com.example.kontrakanku3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP8Cd_2O3CdBH0G5ODA3Sh37nEESNz408"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
