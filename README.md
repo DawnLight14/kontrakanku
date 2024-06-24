@@ -3,9 +3,7 @@ Project Flutter's Kontrakanku application helps students who rent a house togeth
 This project was made to fulfil the final assignment of the course.
 
 ------
-Course    : Mobile Programming Lanjutan
-
-Course ID : 202323430091
+Course    : Mobile Programming Lanjutan (202323430091)
 ------
 
 Team 2: 
